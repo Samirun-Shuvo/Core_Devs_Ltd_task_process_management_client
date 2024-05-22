@@ -35,7 +35,7 @@ const CreateProcess = () => {
             <form onSubmit={handleSubmit} className="card-body">
               <div className="form-control">
                 <label className="label">
-                  <span className="label-text">Process Name :</span>
+                  <span className="label-text">Process Name:</span>
                 </label>
                 <input
                   ref={inputRef}
